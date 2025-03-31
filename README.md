@@ -3,9 +3,13 @@
 Traditional data analysis demands specialized expertise, restricting access to insights for non-technical users. By developing an AI agent that processes natural language queries, we can make data analysis accessible to everyone. This empowers users to extract meaningful insights from complex datasets without requiring programming or statistical knowledge.
 
 The primary goal of this project is to create an intelligent chatbot that can:
+
 •	Understand user queries related to a given data file.
+
 •	Perform data analysis using Pandas and LangChain.
+
 •	 Provide insights based on user requests.
+
 •	 Offer an interactive and user-friendly interface through Gradio.
 
 Technologies & Tools Used

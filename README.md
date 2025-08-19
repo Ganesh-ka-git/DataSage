@@ -21,9 +21,12 @@ To build this chatbot, we utilized the following technologies:
 
 Implementation Details
 The chatbot is designed to analyze data files based on user queries. It follows these steps:
-•	 The user uploads a data file.
+•	 The user uploads a csv file.
+
 •	 The chatbot processes the file using Pandas and extracts relevant insights.
+
 •	 Based on the user’s query, the chatbot applies appropriate data transformations and analysis.
+
 •	 The response is generated and presented through the Gradio interface
 
 

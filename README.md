@@ -21,6 +21,7 @@ To build this chatbot, we utilized the following technologies:
 
 Implementation Details
 The chatbot is designed to analyze data files based on user queries. It follows these steps:
+
 •	 The user uploads a csv file.
 
 •	 The chatbot processes the file using Pandas and extracts relevant insights.
